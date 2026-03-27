@@ -28,7 +28,7 @@ class Solution:
         return True
 
 ```
-# LeetCode 筆記：242. Valid Anagram (有效的字母異位詞)
+## 242. Valid Anagram (有效的字母異位詞)
 
 ---
 
